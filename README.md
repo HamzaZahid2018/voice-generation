@@ -1,9 +1,7 @@
 # 🎙️ Deepgram Text-to-Speech Generator - Complete Suite
 
 Convert long text to speech using Deepgram API with **4 Beautiful UI Options**!
-
 ## 🚀 Quick Start
-
 ### Option 1: Streamlit Web Apps (Choose Your Style! ✨)
 
 ```bash
