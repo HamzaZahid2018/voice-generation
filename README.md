@@ -195,3 +195,5 @@ Made with ❤️ using Streamlit & Deepgram API
 - 2026-10-17:  README refreshed.
 
 - 2026-10-18: README refreshed.
+
+- 2026-10-20: README refreshed.
