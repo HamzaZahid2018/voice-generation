@@ -207,3 +207,4 @@ Made with ❤️ using Streamlit & Deepgram API
 
 - 2026-10-29: README refreshed.
 - - 2026-11-01: README refreshed.
+- 2026-11-02: README refreshed.
